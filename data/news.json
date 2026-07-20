@@ -1,11 +1,150 @@
 {
-  "generated_at": "2026-07-19T08:00:00+08:00",
+  "generated_at": "2026-07-20T02:00:19.635391+00:00",
+  "location": "湖北省襄阳市",
+  "sources": [
+    "襄阳人才综合服务平台",
+    "公开资讯检索"
+  ],
   "items": [
     {
-      "title": "欢迎使用 AI Daily：每日自动汇聚全球人工智能新闻",
-      "url": "https://news.google.com/search?q=artificial%20intelligence&hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans",
-      "source": "AI Daily",
-      "published": "2026-07-19T08:00:00+08:00"
+      "title": "管培生",
+      "url": "https://www.xyrczhfw.cn/recruit/shdetail/id/887.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-20T02:00:18.518176+00:00",
+      "kind": "企业岗位"
+    },
+    {
+      "title": "维修工",
+      "url": "https://www.xyrczhfw.cn/recruit/shdetail/id/891.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-20T02:00:18.518137+00:00",
+      "kind": "企业岗位"
+    },
+    {
+      "title": "保育员",
+      "url": "https://www.xyrczhfw.cn/recruit/shdetail/id/905.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-20T02:00:18.518099+00:00",
+      "kind": "企业岗位"
+    },
+    {
+      "title": "工程主管",
+      "url": "https://www.xyrczhfw.cn/recruit/shdetail/id/913.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-20T02:00:18.518065+00:00",
+      "kind": "企业岗位"
+    },
+    {
+      "title": "工程技术员-弱电方向",
+      "url": "https://www.xyrczhfw.cn/recruit/shdetail/id/914.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-20T02:00:18.518024+00:00",
+      "kind": "企业岗位"
+    },
+    {
+      "title": "工程技术员-强电方向",
+      "url": "https://www.xyrczhfw.cn/recruit/shdetail/id/915.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-20T02:00:18.517990+00:00",
+      "kind": "企业岗位"
+    },
+    {
+      "title": "工程技术员-暖通方向",
+      "url": "https://www.xyrczhfw.cn/recruit/shdetail/id/916.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-20T02:00:18.517949+00:00",
+      "kind": "企业岗位"
+    },
+    {
+      "title": "工程技术员-消防/电梯方向",
+      "url": "https://www.xyrczhfw.cn/recruit/shdetail/id/917.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-20T02:00:18.517909+00:00",
+      "kind": "企业岗位"
+    },
+    {
+      "title": "五险一金/销售/APP推广",
+      "url": "https://www.xyrczhfw.cn/recruit/shdetail/id/920.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-20T02:00:18.517870+00:00",
+      "kind": "企业岗位"
+    },
+    {
+      "title": "宜城市2026年公开引进高层次紧缺人才公告",
+      "url": "https://www.xyrczhfw.cn/recruit/show/id/1856.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-17T00:00:00+00:00",
+      "kind": "招聘公告"
+    },
+    {
+      "title": "襄阳赛普化工有限责任公司招聘",
+      "url": "https://www.xyrczhfw.cn/recruit/show/id/1855.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-17T00:00:00+00:00",
+      "kind": "招聘公告"
+    },
+    {
+      "title": "襄阳粮油集团有限公司2026年公开招聘工作人员公告",
+      "url": "https://www.xyrczhfw.cn/recruit/show/id/1854.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-16T00:00:00+00:00",
+      "kind": "招聘公告"
+    },
+    {
+      "title": "汉江控股发展集团有限公司公开招聘副总经理面试公告",
+      "url": "https://www.xyrczhfw.cn/recruit/show/id/1853.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-15T00:00:00+00:00",
+      "kind": "招聘公告"
+    },
+    {
+      "title": "宜城市天盛物业管理有限公司招聘",
+      "url": "https://www.xyrczhfw.cn/recruit/show/id/1841.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-13T00:00:00+00:00",
+      "kind": "招聘公告"
+    },
+    {
+      "title": "襄阳九州通医药有限公司招聘",
+      "url": "https://www.xyrczhfw.cn/recruit/show/id/1840.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-13T00:00:00+00:00",
+      "kind": "招聘公告"
+    },
+    {
+      "title": "襄阳能源集团有限责任公司2026年第一批社会公开招聘启事",
+      "url": "https://www.xyrczhfw.cn/recruit/show/id/1837.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-09T00:00:00+00:00",
+      "kind": "招聘公告"
+    },
+    {
+      "title": "湖北襄投置业有限公司2026年7月面向社会公开招聘人才启事",
+      "url": "https://www.xyrczhfw.cn/recruit/show/id/1836.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-07-07T00:00:00+00:00",
+      "kind": "招聘公告"
+    },
+    {
+      "title": "关于公开招聘汉江控股发展集团有限公司副总经理的公告",
+      "url": "https://www.xyrczhfw.cn/recruit/show/id/1824.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-06-29T00:00:00+00:00",
+      "kind": "招聘公告"
+    },
+    {
+      "title": "湖北交投襄阳高速公路运营管理有限公司 一线工作人员招聘公告",
+      "url": "https://www.xyrczhfw.cn/recruit/show/id/1819.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-06-17T00:00:00+00:00",
+      "kind": "招聘公告"
+    },
+    {
+      "title": "襄阳市第六人民医院（襄州区人民医院） 2026年公开招聘编制备案制高层次紧缺人才（22名医生）公告",
+      "url": "https://www.xyrczhfw.cn/recruit/show/id/1795.html",
+      "source": "襄阳人才综合服务平台",
+      "published": "2026-06-10T00:00:00+00:00",
+      "kind": "招聘公告"
     }
   ]
 }
